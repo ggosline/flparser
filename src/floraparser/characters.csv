@@ -1,0 +1,77 @@
+taxonNo,flora,family,taxon,mainsubject,subject,subpart,category,value,mod,posit,phase,presence,start,end
+666,,testfam,Test run,plant,plant,,subject,plant,,,,,5,96
+666,,testfam,Test run,plant,plant,,life-form,shrub,Much-branched,,,,10,46
+666,,testfam,Test run,plant,plant,,life-form,tree,small,,,,10,46
+666,,testfam,Test run,plant,plant,,reproduction,dioecious,,,,,47,85
+666,,testfam,Test run,plant,plant,,reproduction,monoecious,,,,,47,85
+666,,testfam,Test run,plant,plant,,reproduction,monoecious,commonly; less,,,,47,85
+666,,testfam,Test run,plant,plant,,dimension,"('1–9', 'm', 'tall')",,,,,86,96
+666,,testfam,Test run,plant,bark,,subject,bark,,,,,98,164
+666,,testfam,Test run,plant,bark,,coloration,grey,,,,,103,108
+666,,testfam,Test run,plant,bark,,relief,fairly smooth (fide Greenway) TO rough,,,,,109,164
+666,,testfam,Test run,plant,branchlet,,subject,branchlet,,,,,166,273
+666,,testfam,Test run,plant,branchlet,,,south,subglabrous (apart from the glands) to tomentellous or occasionally densely pilose further,,,,177,273
+666,,testfam,Test run,leaves,leaves,,subject,leaves,,,,,275,289
+666,,testfam,Test run,leaves,leaves,,odor,scented,,,,,282,289
+666,,testfam,Test run,leaves,blade,,subject,blade,,,,,291,911
+666,,testfam,Test run,leaves,blade,,shape,linear-oblanceolate TO oblanceolate or ± oblong-elliptic,,,,,298,355
+666,,testfam,Test run,leaves,blade,,shape,linear-oblanceolate TO oblanceolate,,,,,298,355
+666,,testfam,Test run,leaves,blade,,shape,elliptic,,,,,298,355
+666,,testfam,Test run,leaves,blade,,dimension,"('7–12', 'cm', 'long')",up_to,,,,356,375
+666,,testfam,Test run,leaves,blade,,dimension,"('1–3', 'cm', 'wide')",,,,,376,424
+666,,testfam,Test run,leaves,blade,,shape,pointed,bluntly,at the apex,,,434,462
+666,,testfam,Test run,leaves,blade,,shape,attenuate,long,at the base,,,463,490
+666,,testfam,Test run,leaves,blade,margin,orientation,incurved,somewhat,between the teeth,often becoming,Present,575,658
+666,,testfam,Test run,leaves,blade,margin,shape,crenate,slightly,between the teeth,often becoming,Present,575,658
+666,,testfam,Test run,leaves,blade,margin,shape,crenate,slightly,between the teeth,,Present,575,658
+666,,testfam,Test run,leaves,blade,,shape,crenate,slightly,between the teeth,,,575,658
+666,,testfam,Test run,leaves,blade,margin,orientation,incurved,somewhat,,often becoming,Present,575,658
+666,,testfam,Test run,leaves,blade,,pubescence,pubescent,,towards the base; on the midrib,,,694,742
+666,,testfam,Test run,leaves,blade,,pubescence,pubescent,,on the midrib towards the base,,,694,742
+666,,testfam,Test run,leaves,blade,,prep,covered_with; golden- yellow glands,,on both surfaces,,,824,876
+666,,testfam,Test run,leaves,blade,,,wither,pock-marked when the glands,,,,877,911
+666,,testfam,Test run,leaves,nerve,,subject,nerve,lateral,,,,913,1017
+666,,testfam,Test run,leaves,nerve,,manifestation,inconspicuous,,beneath,,,968,990
+666,,testfam,Test run,leaves,nerve,venation,manifestation,obscure,finer,,,Present,991,1017
+666,,testfam,Test run,leaves,petiole,,subject,petiole,,,,,1019,1038
+666,,testfam,Test run,leaves,petiole,,dimension,"('3–5', 'mm', 'long')",,,,,1027,1038
+666,,testfam,Test run,flower,flower,,subject,flower,Female,,,,1040,1092
+666,,testfam,Test run,flower,flower,,prep,borne_on; the upper part of the catkin,,,,,1055,1092
+666,,testfam,Test run,testing,,catkin,architecture,dense,Male,,,Present,1094,1113
+666,,testfam,Test run,testing,,,dimension,"('0.5–3', 'cm', 'long')",,,,,1114,1128
+666,,testfam,Test run,testing,,,coloration,reddish,,,when young,,1129,1165
+666,,testfam,Test run,testing,,,coloration,brown,purplish,,when young,,1129,1165
+666,,testfam,Test run,testing,bract,,subject,bract,,,,,1167,1394
+666,,testfam,Test run,testing,bract,,shape,triangular,,in the upper part,,,1174,1228
+666,,testfam,Test run,testing,bract,,shape,deltoid,,in the upper part,,,1174,1228
+666,,testfam,Test run,testing,bract,,position,middle,,,,,1312,1319
+666,,testfam,Test run,testing,bract,,dimension,"('1–1.5', 'mm', 'long')",,,,,1320,1334
+666,,testfam,Test run,testing,bract,,pubescence,glandular,,,,,1335,1345
+666,,testfam,Test run,testing,bract,,exudation,glandular,,,,,1335,1345
+666,,testfam,Test run,testing,bract,,architecture,glandular,,,,,1335,1345
+666,,testfam,Test run,testing,bract,,shape,ciliate,,,,,1346,1354
+666,,testfam,Test run,testing,stamen,,subject,stamen,,,,,1396,1447
+666,,testfam,Test run,testing,stamen,,count,3–4(–5),,,,,1404,1412
+666,,testfam,Test run,testing,anther,,subject,anther,,,,,1449,1485
+666,,testfam,Test run,testing,anther,,pubescence,hairy,,,,,1480,1485
+666,,testfam,Test run,testing,,catkin,architecture,dense,usually,,at first,Present,1487,1525
+666,,testfam,Test run,testing,,,dimension,"('0.5–1.2', 'cm', 'long')",,,,,1526,1542
+666,,testfam,Test run,testing,,,size,elongating,,in fruit,,,1543,1584
+666,,testfam,Test run,testing,,,dimension,"('3–4', 'cm', 'long')",up_to,in fruit,,,1543,1584
+666,,testfam,Test run,testing,,,size,elongating,,,,,1543,1584
+666,,testfam,Test run,testing,bract,,subject,bract,,,,,1586,1656
+666,,testfam,Test run,testing,bract,,shape,triangular,ovate,,,,1593,1610
+666,,testfam,Test run,testing,bract,,anaphora,so,sometimes; broadly,,,,1611,1632
+666,,testfam,Test run,testing,bract,,shape,rhombic,transversely,,,,1636,1656
+666,,testfam,Test run,testing,bracteole,,subject,bracteole,,,,,1658,1726
+666,,testfam,Test run,testing,bracteole,,count,4,usually,,,,1669,1679
+666,,testfam,Test run,testing,bracteole,,shape,ovate,,,,,1680,1686
+666,,testfam,Test run,testing,bracteole,,shape,concave,,,,,1687,1695
+666,,testfam,Test run,testing,bracteole,,dimension,"('0.4–0.7', 'mm', 'long')",,,,,1696,1712
+666,,testfam,Test run,testing,bracteole,,pubescence,hairy,densely,,,,1713,1726
+666,,testfam,Test run,testing,,,size,slender,style-arms,,,,1728,1747
+666,,testfam,Test run,testing,,,shape,caudate,long,,,,1748,1761
+666,,testfam,Test run,testing,,,dimension,"('1.5–3', 'mm', 'long')",,,,,1762,1775
+666,,testfam,Test run,fruit,fruit,,subject,fruit,,,,,1777,1816
+666,,testfam,Test run,fruit,fruit,,shape,globose,ellipsoid,,,,1784,1802
+666,,testfam,Test run,fruit,fruit,,dimension,"('3–4', 'mm', 'across')",,,,,1803,1816
